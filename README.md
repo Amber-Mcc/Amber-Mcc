@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Miniature Games (Javascript, HTML, and CSS)</b>
   - [Memory Game](https://github.com/Amber-Mcc/memory-game)
+  - [Tetris Game](https://github.com/)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
  
