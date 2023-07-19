@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Memory Game]([https://github.com/](https://github.com/Amber-Mcc/memory-game))
+  - [Memory Game](https://github.com/Amber-Mcc/memory-game)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
  
